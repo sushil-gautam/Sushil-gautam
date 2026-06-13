@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sushil Gautam. <br/><a href="https://github.com/sushil-gautam">Programmer</a>, <a href="https://www.linkedin.com/in/sushil-gautam-703574388/">IT Professional</a>
+<h1>Hi, I'm Sushil Gautam. <br/><a href="https://github.com/sushil-gautam">Programmer</a>, <a href="https://www.linkedin.com/in/sushil-gautam-703574388/">  Computer Science</a>
 
 <h2>👨‍💻 Progamming Language:</h2>
 
